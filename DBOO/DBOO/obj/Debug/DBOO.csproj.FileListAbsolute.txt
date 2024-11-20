@@ -1,0 +1,7 @@
+C:\Users\cesar\source\repos\DBOO\DBOO\bin\Debug\DBOO.exe.config
+C:\Users\cesar\source\repos\DBOO\DBOO\bin\Debug\DBOO.exe
+C:\Users\cesar\source\repos\DBOO\DBOO\bin\Debug\DBOO.pdb
+C:\Users\cesar\source\repos\DBOO\DBOO\obj\Debug\DBOO.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\DBOO\DBOO\obj\Debug\DBOO.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\DBOO\DBOO\obj\Debug\DBOO.exe
+C:\Users\cesar\source\repos\DBOO\DBOO\obj\Debug\DBOO.pdb
